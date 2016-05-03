@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;goTest&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../d/poiutils/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../d/poiutils/src/idgenerator" />
+      <root url="file://$PROJECT_DIR$/../d/poiutils/src/servernodemanager" />
+      <root url="file://$PROJECT_DIR$/../d/poiutils/src/coordtrans" />
+      <root url="file://$PROJECT_DIR$/../d/poiutils/src/lbs" />
+      <root url="file://$PROJECT_DIR$/../d/poiutils/src/redis" />
+      <root url="file://$PROJECT_DIR$/../d/packageTest/searchTool/.godeps/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../d/poiutils/src/address" />
+      <root url="file://$PROJECT_DIR$/../d/poiutils/src/pinyin" />
+      <root url="file://$PROJECT_DIR$/../d/poiutils/src/city" />
+      <root url="file://$PROJECT_DIR$/../d/poiutils/src/utils" />
+      <root url="file://$PROJECT_DIR$/../d/packageTest/searchTool/src/github.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../d/poiutils/src/github.com/smartystreets/assertions/.git" />
+      <root url="file://$PROJECT_DIR$/../d/packageTest/searchTool/.godeps/src/github.com/astaxie/beego/utils/testdata" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../d/packageTest/searchTool/.godeps/src/github.com/cihub/seelog/.git" />
+      <root url="file://$PROJECT_DIR$/../d/poiutils/src/github.com/smartystreets/assertions/internal/oglemock/createmock/testdata" />
+      <root url="file://$PROJECT_DIR$/../d/poiutils/src/github.com/smartystreets/assertions/internal/oglemock/generate/testdata" />
+      <root url="file://$PROJECT_DIR$/../d/packageTest/searchTool/.godeps/src/github.com/astaxie/beego/.github" />
+      <root url="file://$PROJECT_DIR$/../d/poiutils/src/github.com/jtolds/gls/.git" />
+      <root url="file://$PROJECT_DIR$/../d/poiutils/src/github.com/smartystreets/goconvey/.git" />
+      <root url="file://$PROJECT_DIR$/../d/packageTest/searchTool/src/github.com/axgle/mahonia/.git" />
+      <root url="file://$PROJECT_DIR$/../d/packageTest/searchTool/.godeps/src/github.com/astaxie/beego/.git" />
+    </excluded>
+  </library>
+</component>
