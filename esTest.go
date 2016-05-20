@@ -43,16 +43,6 @@ type DidiPoiInfo struct {
 	Updated          string  `db:"updated" json:"updated"`
 }
 
-func initEs() (es *EsCfg) {
-	es = new(EsCfg)
-	es.HostPort = "10.120.109.162:8080"
-	es.IndexPrefix = "didi_poi_1_v3"
-	es.Type = "didi_poi_prod"
-	es.Timeout = 100
-	client, _ := elastic.NewClient(elastic.SetSniff(false), elastic.SetURL(es.HostPort...))
-	es.Es = client
-	return
-}
 
 func parse_es_result(r *elastic.SearchResult) () {
 	if r.Hits.TotalHits == 0 {
