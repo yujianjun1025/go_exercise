@@ -30,4 +30,10 @@ func main() {
 		break
 	}
 
+
+	arr := []int{11,12,13,14}
+	for index, value := range arr {
+		fmt.Printf("arr[%d]=%d \n", index, value)
+	}
+
 }
